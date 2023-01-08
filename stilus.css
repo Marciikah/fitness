@@ -1,0 +1,101 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    color: yellow;
+}
+header{
+    background-image: url(kek_eg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.kozep{
+    text-align: center;
+}
+#foold{
+    margin-right: 50px;
+}
+#szolgaltat{
+    margin-right: 50px;
+}
+nav{
+    background-image: url(menu_hatter.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#semmi{
+    list-style: none;
+}
+.kek{
+    color: blue;
+}
+#jobb{
+    float: right;
+}
+#bal{
+    float: left;
+    margin-left: 50px;
+
+}
+.cim{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+main{
+    line-height: 35px;
+}
+body{
+    background: gray;
+}
+#egesz{
+    background: white;
+    width: 900px;
+    margin: auto;
+    height: 750px;
+}
+#jobbra{
+    /* position: relative; */
+    /* left: 100px; */
+    float: right;
+}
+#balra{
+    /* position: relative; */
+    /* left: 42px; */
+    float: left;
+    margin-left: 42px;
+}
+#szolgaltatasok{
+    width: 300px;
+    line-height: 30px;
+}
+.clear{
+    clear: both;
+}
+#ul{
+    clear: both;
+    margin-top: 50px;
+}
+form{
+    margin-left: 10px;
+    line-height: 30px;
+}
+#uzenet, #nev{
+    width:650px;
+    margin-bottom: 0px;
+}
+#egesz2{
+    background: white;
+    width: 900px;
+    margin: auto;
+    height: 550px;
+}
+#egesz3{
+    background: white;
+    width: 900px;
+    margin: auto;
+    height: 650px;
+}
